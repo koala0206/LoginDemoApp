@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">enter</string>
+    <string name="design">登入界面</string>
+    <string name="account">输入账号</string>
+    <string name="passwort">输入密码</string>
+    <string name="user">登入</string>
+    <string name="back">返回</string>
+
+</resources>
